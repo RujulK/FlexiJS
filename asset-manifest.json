@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portru/static/css/main.cf758ed1.css",
+    "main.js": "/portru/static/js/main.134a1db4.js",
+    "static/js/453.bc6451d5.chunk.js": "/portru/static/js/453.bc6451d5.chunk.js",
+    "index.html": "/portru/index.html",
+    "main.cf758ed1.css.map": "/portru/static/css/main.cf758ed1.css.map",
+    "main.134a1db4.js.map": "/portru/static/js/main.134a1db4.js.map",
+    "453.bc6451d5.chunk.js.map": "/portru/static/js/453.bc6451d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf758ed1.css",
+    "static/js/main.134a1db4.js"
+  ]
+}
